@@ -1,0 +1,19 @@
+.container{
+    max-width: 800px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  
+}
+
+.main{
+border: black 1px solid;
+}
+
+.links{
+  list-style: none;
+    display: flex;
+    margin: ;
+
+}
+
